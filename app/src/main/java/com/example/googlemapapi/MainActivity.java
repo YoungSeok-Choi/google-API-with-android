@@ -70,7 +70,7 @@ public class MainActivity extends AppCompatActivity implements OnMapReadyCallbac
     private Location location;
 
 
-    private View mLayout; //Snabar 사용을 위한 view
+    private View mLayout; //Snabar 사용을 위한 viewㄴㅇㄹㄴㅇㄹㄴㅇㄹ
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
